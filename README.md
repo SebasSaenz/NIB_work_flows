@@ -1,1 +1,1 @@
-# NIB_work_flows
+# Bioinforamtic workflows use in NIB
